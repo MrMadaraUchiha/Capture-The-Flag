@@ -1,0 +1,7 @@
+name: CaptureTheFlag
+main: me.MrMadaraUchiha.ctf_reborn.CTFReborn
+version: 1.0.0-SNAPSHOT
+commands:
+  test:
+    aliases: [test, teste]
+    usage: DEBUG
