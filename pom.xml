@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <buildDirectory>E:\Freelas\DEV\Dev Server 1.12.2\plugins</buildDirectory>
+        <buildDirectory>E:\Github\DEV\Plugins 1.12.2\plugins</buildDirectory>
     </properties>
 
     <build>
